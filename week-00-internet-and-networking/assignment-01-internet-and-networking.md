@@ -23,18 +23,19 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+![Task 1 Screenshot](screenshots/task-1.png)
+![Task 1 Screenshot](screenshots/task-2.png)
+
+
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+From this task, I learned that writing an effective ChatGPT prompt starts with clearly describing my current knowledge level, such as being a beginner in DevOps. I also learned that specifying the type of response I want such as simple English, step-by-step explanations, or real-world examples helps ChatGPT provide more accurate, personalized, and easy-to-understand answers.
+
 
 ---
 
@@ -55,11 +56,11 @@ Write a short explanation (**100–150 words**) that includes:
 * TCP/IP
 * HTTP/HTTPS
 
-💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world visits **EpicReads**, they type the website address into their browser. The browser sends a request using **HTTP** or the secure version **HTTPS** to ask the server in **Finland** for the bookstore's web pages. The server is identified by its unique **IP Address**, which works like a home address so data reaches the correct destination. The request and response travel across the internet using the **TCP/IP** protocol suite. **TCP** ensures that all pieces of data arrive correctly and in the right order, while **IP** handles the routing of the data to the correct location. The data is sent using **Packet Switching**, where it is divided into small packets that travel through different network paths before being reassembled on the user's device to display the EpicReads website.
+
 
 ---
 
@@ -89,12 +90,10 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
 
 ![Application Architecture Diagram](screenshots/task-3-diagram.png)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,18 +101,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML/CSS
+* React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Java (Spring Boot)
+* Node.js (Express)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MySQL
 
 ---
 
@@ -142,7 +141,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The **Domain Name System (DNS)** is like the internet's phonebook. It translates easy-to-remember domain names, such as **epicreads.com**, into numerical **IP Address** values that computers use to find servers. To connect **epicreads.com** to **52.172.142.222**, an **A Record** should be used because it maps a domain name directly to an IPv4 address. This allows users to access the EpicReads website using its domain name instead of typing the server's IP address.
+
 
 ---
 
@@ -176,12 +176,11 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/task-5-vscode-terminal.png)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -218,16 +217,39 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+[Add your URL here...](https://www.linkedin.com/posts/shekahassankargbo_devops-networking-softwarearchitecture-share-7489068482567979008-FqxC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE)
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+ My DevOps Learning Journey – Week 1
+I'm currently learning DevOps from scratch again, and this week I focused on understanding some of the core concepts that make modern applications and the internet work.
+🤖 ChatGPT
+One of the most valuable learning tools I've used is ChatGPT. It helps me break down complex DevOps and networking concepts into simple explanations, practical examples, and real-world analogies, making it much easier to build a strong foundation.
+🌐 Internet & Networking
+I learned how users anywhere in the world can access a website hosted in another country. When someone visits a website, their browser sends a request using HTTP/HTTPS. The data travels across the internet using the TCP/IP protocol suite, while Packet Switching divides the data into smaller packets that can travel through different routes before being reassembled. Every server has a unique IP address, allowing requests to reach the correct destination.
+🏗️ App Architecture
+I explored two common application architectures:
+Two-Tier Architecture
+Frontend
+Database
+The frontend communicates directly with the database. This design is simple and suitable for smaller applications.
+Three-Tier Architecture
+Frontend
+Backend
+Database
+The backend sits between the frontend and the database, handling business logic, security, and API requests. This architecture is more scalable, secure, and easier to maintain.
+🌍 DNS
+I also learned about the Domain Name System (DNS), which works like the internet's phonebook. DNS converts human-friendly domain names into IP addresses that computers understand. For a website like epicreads.com, an A Record is used to point the domain to its IPv4 server address, allowing users to access the website using its name instead of a numeric IP.
+💻 VS Code Setup
+I set up Visual Studio Code as my primary development environment. With useful extensions, an integrated terminal, Git support, and debugging tools, VS Code provides everything needed to begin learning Linux, Git, scripting, and other DevOps technologies.
+Every topic I learn strengthens my understanding of how applications are built, deployed, and accessed across the internet. Looking forward to learning more as I continue this DevOps journey!
+#DevOps #Networking #VSCode #CloudComputing #LearningInPublic #CareerGrowth #TechLearning
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/shekahassan.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
 
 ---
 
@@ -235,19 +257,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+breaking down difficult concept using chatgpt helps a lot.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Learning new concept and navigating between the two tier and the three tier apllication
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve by spending more time practising the concepts to gain better understanding.
 
 ---
 

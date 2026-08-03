@@ -33,9 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Learning without building is mostly entertainment. Reading books and watching tutorials feels productive, but applying knowledge creates lasting skill. I strongly believe everything compounds,small actions build bigger result. there is this concept people need to understand, nothing is hard its just new to you.
 
----
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
@@ -53,39 +52,32 @@ Write each truth in this format:
 
 ## Truth #1
 
-### Truth
+Consistent daily effort produces measurable progress over time
 
-Add your answer here...
 
 ### Evidence from my life
 
-Add your answer here...
+I committed to learning DevOps step by step instead of trying to master everything at once. By studying consistently, building projects, and asking questions every day, I progressed from being a beginner to someone who can automate a pipeline.
 
 ---
 
 ## Truth #2
 
-### Truth
-
-Add your answer here...
+You dont have to be perfect at your first try.
 
 ### Evidence from my life
 
-Add your answer here...
+whiles learning new concept and practicing labs, i encounter so much errors that gets me frustrated but with patience and willing to accept that am just a biginner, i was able to debug it and came up with a solution.
 
----
 
 ## Truth #3
 
-### Truth
-
-Add your answer here...
+Investing in yourself increases your opportunities beyond your current circumstances.
 
 ### Evidence from my life
 
-Add your answer here...
+investing time in learning and saying no to certain things that will hinder my learning process had helps me alot. Developing my technical skills and discipline helps me to confidently explain devops concepts effectively to someone as a complete beginner.
 
----
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -131,19 +123,48 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 Include this line:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/shekahassan.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
-Add your answer here...
+I wrote a description of my life 5 years from now.
+Not because I know exactly how it will unfold.
+But because clarity creates direction.
+Five years from now...
+I'm known for building reliable cloud infrastructure, automating complex systems, and solving problems that help businesses scale.
+I've led infrastructure projects, deployed production workloads on Kubernetes, built secure CI/CD pipelines, and automated cloud environments using Terraform and Ansible.
+My GitHub portfolio tells the story of my growth—not through certificates alone, but through real projects that solve real problems.
+I've earned industry-recognized cloud and Kubernetes certifications, mentored junior engineers, contributed to open-source projects, and spoken at tech meetups about DevOps, cloud computing, and automation.
+Beyond my career, I've built something even more meaningful.
+I've published hundreds of educational videos and articles that have helped thousands of aspiring engineers break into tech. What started as documenting my learning became a community built on sharing knowledge.
+The discipline I developed in engineering has carried into every area of my life.
+I've stayed committed to my health.
+I've invested wisely and built long-term assets.
+I've achieved one of my biggest dreams: giving my parents the freedom to retire comfortably.
+Looking back, none of those milestones happened because of one big opportunity.
+They happened because of thousands of small decisions:
+showing up,
+building projects,
+learning continuously,
+sharing what I learned,
+and refusing to quit when progress felt slow.
+This isn't just a vision.
+It's the standard I'm working toward every single day.
+I'll keep building.
+I'll keep learning.
+I'll keep sharing.
+Five years from now, I hope this post serves as a reminder that the future is built by what we choose to do today.
+#DevOps #CloudComputing #AWS #Kubernetes #Terraform #Linux #Automation #ContentCreator #BuildInPublic #ContinuousLearning #SoftwareEngineering #CareerGrowth
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/shekahassan.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
+
+
 
 ### Public Link
 
-Paste your link here:
+(https://www.linkedin.com/posts/shekahassankargbo_dmi-devops-micro-internship-with-agentic-share-7490140425882738688-H6FS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE)
 
-`Add your URL here`
 
----
+
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -173,9 +194,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt ashamed. At first, I may have justified my decision, but over time I noticed feelings of regret. Instead of feeling proud, I felt disgust because my actions didn't align with the kind of person I want to be. The experience made me realize that shortcuts can create temporary relief but often lead to stress, regret, or a loss of confidence. It taught me the importance of acting with integrity, even when doing the right thing is more difficult.
 
----
+
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -199,18 +220,34 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. **Atomic Habits** — James Clear
 
----
+2. **Deep Work** — Cal Newport
+
+3. **The Psychology of Money** — Morgan Housel
+   
+4. **The 7 Habits of Highly Effective People** — Stephen R. Covey
+   
+5. **Never Split the Difference** — Chris Voss
+   
+6. **The Effective Executive** — Peter F. Drucker
+  
+
+7. **The First 90 Days** — Michael D. Watkins
+   
+8. **The Phoenix Project** — Gene Kim, Kevin Behr & George Spafford
+   
+9. **Designing Data-Intensive Applications** — Martin Kleppmann
+  
+
+10. **Outlive: The Science and Art of Longevity** — Peter Attia with Bill Gifford
+    
+
+
+My goal is not just to finish these books, but to apply their lessons through projects, daily habits, and continuous improvement.
+
+
+
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
 
@@ -237,16 +274,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* New DevOps tools explored
+* Personal reflection sessions
+* Comments and meaningful conversations
+* New people connected with
+* Acts of kindness
+* Savings rate
+* Deep work sessions
+* Time spent learning
+* Time spent creating
+* Workout sessions
 
 ---
 
@@ -272,9 +309,8 @@ Examples:
 
 Answer:
 
-Add your answer here...
+yes
 
----
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -290,21 +326,109 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday
 
----
+5:30–5:45 AM
+
+Wake up
+Hydrate and pray
+Review daily goals
+
+5:45–6:45 AM
+
+Gym (Strength & Cardio)
+
+6:45–7:15 AM
+
+Shower and breakfast
+
+7:15–8:45 AM (Deep Work Block #1)
+
+DevOps learning
+AWS / Kubernetes / Terraform
+Hands-on labs
+Certification study
+
+8:45–9:15 AM
+
+GitHub commit
+Update notes
+Document what I learned
+
+9:15–9:45 AM
+
+Prepare for work and commute
+
+10:00 AM – 10:00 PM
+
+Work
+
+10:30 PM
+
+dinner 
+Read 10–15 pages of a book or journal
+Sleep
+Friday
+
+Morning
+
+Gym
+Weekly review of learning
+Update GitHub and portfolio
+Publish one LinkedIn post
+
+10:00 AM – 10:00 PM
+
+Work
+Saturday
+
+6:00–7:00 AM
+
+Gym
+
+7:30–10:00 AM
+
+Build a real-world DevOps project
+Practice Kubernetes, Docker, Terraform, or AWS
+
+10:00 AM – 10:00 PM
+
+Work (if scheduled)
+
+After Work
+
+Rest and recover
+Sunday
+
+Morning
+
+Weekly planning
+Review goals and progress
+Read for one hour
+Prepare technical content for the week
+
+Late Morning
+
+Financial review
+Budget and investment tracking
+
+Afternoon/Evening
+
+Family and personal time
+Meal preparation
+Early bedtime
+
+
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+in the morning 
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
-
----
+everyday
 
 ### Distraction Rules
 
@@ -316,35 +440,31 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
----
+Phone on flight mode during study hours
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+i noticed that if i just practice over and over again difficult concept became easy to understand
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+staying consistence
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+writing done what i studied or practiced the previous day for 30 minutes.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/posts/shekahassankargbo_devops-cloudcomputing-aws-share-7490154246315872256-24D-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: [**ADD LINK HERE**](https://www.linkedin.com/posts/shekahassankargbo_devops-cloudcomputing-aws-share-7490154246315872256-24D-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE)  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---

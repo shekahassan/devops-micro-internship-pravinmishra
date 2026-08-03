@@ -208,7 +208,7 @@ Clearly structure your post into the following sections:
 
 Add the following credit note at the end of your post:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/shekahassan.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 ---
 
@@ -216,11 +216,9 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-[Add your URL here...](https://www.linkedin.com/posts/shekahassankargbo_devops-networking-softwarearchitecture-share-7489068482567979008-FqxC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE)
-```
 
----
+[Add your URL here...](https://www.linkedin.com/posts/shekahassankargbo_devops-networking-softwarearchitecture-share-7489068482567979008-FqxC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE)
+
 
 ## LinkedIn Post Backup Copy
 

@@ -20,9 +20,9 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-Add your screenshot here.
+![folders](./screenshots/ss14.png)
 
----
+
 
 # Task 2 — Add the Skill Files
 
@@ -34,15 +34,12 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
-
----
+![scaffold-terraform](./screenshots/ss15.png)
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![skillmd](./screenshots/ss16.png)
 
----
 
 # Task 3 — Run /scaffold-terraform
 
@@ -54,15 +51,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-Add your screenshot here.
+![response](./screenshots/ss17.png)
 
----
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+![terraform](./screenshots/ss18.png)
 
----
 
 # Task 4 — Run terraform init and /tf-plan
 
@@ -74,9 +69,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
-
----
+![tfplan](./screenshots/ss19.png)
 
 # Submission Instructions
 
@@ -90,13 +83,14 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+[`Add your URL here`](https://github.com/shekahassan/devops-micro-internship-pravinmishra)
 
 ## LinkedIn post URL
+https://www.linkedin.com/posts/shekahassankargbo_dmibypravinmishra-agenticai-claudecode-share-7493363112520138752-up-u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+[`Add your URL here`](https://github.com/shekahassan/Ultimate-Agentic-DevOps-with-Claude-Code)
 ---
 
 # Completion Checklist

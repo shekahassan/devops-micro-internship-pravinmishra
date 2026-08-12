@@ -133,7 +133,7 @@ My stack
 
  | — |
 | 01 | Success Mindset | ✅ Solve | ✅ Completed | (https://www.linkedin.com/posts/shekahassankargbo_dmi-devops-micro-internship-with-agentic-share-7490140425882738688-H6FS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE) | — |
-| 02 | Agentic AI with Claude Code | ✅ Solve | ✅ Completed | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Solve | ✅ Completed | (https://www.linkedin.com/posts/shekahassankargbo_dmibypravinmishra-agenticai-claudecode-share-7493363112520138752-up-u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGROQiABjU7JQZeMJnx30MgL4nzL7kZXtVE) | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

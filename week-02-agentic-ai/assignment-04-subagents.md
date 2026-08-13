@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![project](./screenshots/ss20.png)
 
 ---
 
@@ -34,19 +34,22 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+Cost-optimizer uses Haiku because the job is simple: check the code against a known list of cost issues. It doesn't need heavy thinking, just fast pattern-matching. Haiku does that well, and it's cheaper and quicker than Sonnet so it's the smarter choice for this task.
+
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+Security-auditor is intentionally read-only. Its job is to inspect Terraform files and flag vulnerabilities, not fix them. Withholding Write access means the agent can never modify infrastructure on its own  it can only read and report. That separation of "find the issue" from "fix the issue" is a safety boundary, not an oversight.
+
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+inherit means tf-writer doesn't lock itself to one model it uses whatever model is powering the parent session. So if you're running the session on Sonnet, tf-writer uses Sonnet; if you switch to Opus, it follows. This keeps the agent flexible instead of hardcoding a model choice that might not match the session's needs.
+
 
 ---
 
@@ -54,13 +57,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![secaud](./screenshots/ss21.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![costopt](./screenshots/ss22.png)
 
 ---
 
@@ -74,13 +77,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![message](./screenshots/ss23.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![report](./screenshots/ss24.png)
 
 ---
 
@@ -94,7 +97,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![report](./screenshots/ss25.png)
 
 ---
 

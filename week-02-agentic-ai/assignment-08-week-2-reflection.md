@@ -46,7 +46,9 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![article](./screenshots/ss46.png)
+
+
 
 ---
 
@@ -54,7 +56,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+[`Add your URL here`](https://www.linkedin.com/pulse/reflection-week-2-sheka-hassan-kargbo-sheka-hassan-kargbo-iqbxf)
 
 ---
 
